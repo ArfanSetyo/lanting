@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Strings.xml digunakan untuk menampilkan teks yang akan masukan pada aplikasi android
+-->
+<resources>
+    <string name="app_name">Lanting Kebumen</string>
+    <string name="order_cupcakes">Order Lanting Kebumen</string>
+    <string name="one_cupcake">Lanting Fikri</string>
+    <string name="six_cupcakes">Lanting Mekar Sari</string>
+    <string name="twelve_cupcakes">Lanting Sari Rasa</string>
+    <string name="choose_flavor">Pilihan Rasa</string>
+    <string name="vanilla">Pedas</string>
+    <string name="chocolate">Manis</string>
+    <string name="red_velvet">Keju</string>
+    <string name="salted_caramel">Balado</string>
+    <string name="coffee">Original</string>
+    <string name="special_flavor">Rasa Spesial</string>
+    <string name="cancel">Membatalkan</string>
+    <string name="next">Selanjutnya</string>
+    <string name="choose_pickup_date">Memilih Tanggal Pengambilan</string>
+    <string name="order_summary">Rincian Pesanan</string>
+    <string name="send">Kirim Pesanan Ke Aplikasi</string>
+    <string name="quantity">Jumlah Pesanan</string>
+    <string name="flavor">Aneka Rasa</string>
+    <string name="pickup_date">Tanggal Pengambilan</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">Order Lanting Kebumen</string>
+    <string name="order_details">Quantity: %12$s Lanting \n Rasa: %13$s \nTanggal Ambil: %14$s \n
+        Total: %15$s \n\n Terima Kasih!</string>
+</resources>
